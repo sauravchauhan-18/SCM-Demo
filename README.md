@@ -1,3 +1,2 @@
 # SCM-Demo
-This is my first git repository\n
-Author-Saurav Chauhan
+This is my first git repository\nAuthor-Saurav Chauhan
